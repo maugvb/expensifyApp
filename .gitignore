@@ -2,3 +2,4 @@ node_modules/
 public/bundle.js
 public/scripts/app.js
 public/scripts/
+package-lock.json
