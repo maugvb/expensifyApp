@@ -1,5 +1,8 @@
 node_modules/
 public/bundle.js
+public/bundle.js.map
+public/styles.css.map
+public/styles.css
 public/scripts/app.js
 public/scripts/
 package-lock.json
