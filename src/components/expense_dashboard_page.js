@@ -1,4 +1,4 @@
-import React from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react';
+import React from 'react';
 import ExpenseList from './expense_list';
 import ExpenseListFilters from './expense_list_filters';
 

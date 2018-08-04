@@ -1,6 +1,6 @@
-import React from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react';
+import React from 'react';
 import moment from 'moment';
-import { SingleDatePicker } from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react-dates';
+import { SingleDatePicker } from 'react-dates';
 
 export default class ExpenseForm extends React.Component {
   constructor(props) {

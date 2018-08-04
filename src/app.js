@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
-import AppRouter from './routers/app_souter';
+import AppRouter from './routers/app_router';
 import configureStore from './store/configure_store';
 import { addExpense } from './actions/expenses';
 import { setTextFilter } from './actions/filters';
