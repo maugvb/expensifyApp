@@ -1,6 +1,6 @@
 import React from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react';
 import { connect } from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react-redux';
-import ExpenseForm from './ExpenseForm';
+import ExpenseForm from './expenseForm';
 import { addExpense } from '../actions/expenses';
 
 export class AddExpensePage extends React.Component {
