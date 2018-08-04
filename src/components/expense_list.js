@@ -1,6 +1,6 @@
-import React from 'react';
-import { connect } from 'react-redux';
-import ExpenseListItem from './expenseListItem';
+import React from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react';
+import { connect } from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react-redux';
+import ExpenseListItem from './expense_list_item';
 import selectExpenses from '../selectors/expenses';
 
 export const ExpenseList = (props) => (
