@@ -1,6 +1,6 @@
-import React from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react';
-import { connect } from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react-redux';
-import { DateRangePicker } from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react-dates';
+import React from 'react';
+import { connect } from 'react-redux';
+import { DateRangePicker } from 'react-dates';
 import { setTextFilter, sortByDate, sortByAmount, setStartDate, setEndDate } from '../actions/filters';
 
 export class ExpenseListFilters extends React.Component {

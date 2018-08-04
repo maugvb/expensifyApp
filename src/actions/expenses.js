@@ -1,4 +1,4 @@
-import uuid from '../../../../Library/Caches/typescript/2.9/node_modules/@types/uuid';
+import uuid from 'uuid';
 
 // ADD_EXPENSE
 export const addExpense = (

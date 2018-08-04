@@ -1,5 +1,5 @@
-import React from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react';
-import { connect } from '../../../../Library/Caches/typescript/2.9/node_modules/@types/react-redux';
+import React from 'react';
+import { connect } from 'react-redux';
 import ExpenseForm from './expenseForm';
 import { editExpense, removeExpense } from '../actions/expenses';
 
