@@ -4,3 +4,5 @@ public/bundle.js.map
 public/styles.css.map
 public/styles.css
 package-lock.json
+public/dist
+yarn.lock
